@@ -1,0 +1,121 @@
+Introduction
+Background
+Digital health interventions are increasingly being designed to
+help people manage their health [1]. Many of these digital health
+interventions seek to facilitate behavior change and are often
+referred to as "digital behavior change interventions" (DBCIs)
+[2]. Among the wide range of DBCIs available, mobile health
+(mHealth) interventions have the potential to improve the reach
+and efficiency of health support owing to the widespread use
+of mobile phones [3,4]. Despite the potential impact of mHealth
+DBCIs, there is mixed evidence on whether they are effective
+at changing health behavior and improving health outcomes
+[3]. One concern is that patients and the public struggle to
+"effectively engage" with mHealth DBCIs [5,6]. Effective
+engagement with mHealth DBCIs has been defined as
+necessitating both microengagement with the mHealth interface
+itself (eg, logging into the app, entering data) and
+macroengagement with the behavior changes the mHealth
+intervention aims to support (eg, performing the exercises
+prescribed by the app) [6]. Therefore, for an mHealth DBCI to
+"effectively engage" users, it must be designed with engaging
+user-centered features to support microengagement and
+evidence-based behavior change techniques (BCTs) to support
+macroengagement.
+
+To design effective behavior change content, there is evidence
+that mHealth interventions developed using the behavior change
+theory and BCTs are more likely to be effective than those
+without [7]. Behavioral scientists have been developing methods
+to systematically transition from diagnosing a behavioral
+problem to designing a behavior change intervention [8-11],
+which can be referred to as Behavioral Design (BD) [12].
+Bondaronek and colleagues [13] provide several examples of
+how BD can be operationalized in publicly available physical
+activity apps. For instance, the app "Movesum" uses BCT 1.1
+Goal Setting (Behavior) in the form of an easily adjustable step
+count goal [13,14]. BCT 1.1 Goal Setting (Behavior) is
+particularly useful when users struggle to plan for what they
+want to achieve or how they want to act [15]. Overall, BD can
+be operationalized in diverse ways but generally involves the
+following steps: (1) understanding the behavioral problem, (2)
+making a behavioral diagnosis for the target behavior using
+behavioral theories, models, and frameworks, (3) identifying
+relevant BCTs using taxonomies and classifications, (4)
+translating BCTs into intervention features, and (5) evaluating
+behavior change outcomes.
+
+To design engaging user-centered mHealth features, there is
+evidence that mHealth interventions developed using personand
+user-centered design processes are more likely to facilitate
+user engagement and improve intervention effectiveness [16,17].
+Person- and user-centered design processes vary in terms of
+their operationalization but always put user needs at the forefront
+of design. Design Thinking (DT) is a common framework used
+in design science to guide creative user-centric designs for
+mHealth [18]. Design thinkers can use a range of approaches
+during the design process to ensure user-centeredness, such as
+directly involving users in app development or referring to
+Nielsen's 10 usability heuristics [19]. The Nielsen Norman
+Group provides several detailed examples of how different
+usability principles can be implemented in application design
+[20,21]. Overall, DT can be executed in different ways but
+generally involves the following steps: (1) empathizing with
+the user, (2) defining the user requirements, (3) ideating
+functional concepts, (4) prototyping the user-centered solution,
+and (5) testing the solution to see if users'needs are met. Despite
+knowledge about what constitutes "effective engagement" with
+mHealth DBCIs, a recent scoping review of DBCIs developed
+over the past 2 decades found that most design teams make
+limited use of BCTs and do not adequately describe the methods
+they employ to meet users' needs [22]. This scoping review
+concluded that DBCI practitioners have little guidance on how
+to integrate best practices from behavioral science and design
+science, and a need exists to develop guidance to support them
+through this process [22]. This conclusion has been reiterated
+across the literature, with experts agreeing that methodological
+guidance is required to design effectively engaging DBCIs [23].
+Experts have also begun to discuss similarities and differences
+between approaches used by design scientists and behavioral
+scientists [24-26]. For example, design scientists often rely on
+end users to ideate content based on their stated preferences,
+needs, and recommendations. They iteratively build
+interventions by using ongoing feedback, with a focus on
+producing creative solutions that users will enjoy (ie, ensuring
+the users are microengaged). In contrast, behavioral scientists
+focus on producing solutions that will nudge behavior change
+(ie, ensuring the users are macroengaged). Behavioral scientists
+often rely on theory- and evidence-based linkages to understand
+behavioral problems and select intervention content. They
+rigorously test solutions against their ability to effect behavior
+change and not necessarily how and whether the user is engaging
+with them. Nonetheless, both approaches emphasize the
+importance of understanding and diagnosing the problem at
+hand before proposing, designing, and implementing a solution.
+Both approaches also aim to ensure that the resulting solutions
+are designed purposefully to achieve user engagement.
+Amalgamating best practices from DT and BD may be mutually
+beneficial and help design teams develop more "effectively
+engaging" DBCIs [24-26]. There is currently a knowledge gap
+with respect to how best practices from DT and BD can be
+integrated to develop "effectively engaging" mHealth DBCIs.
+Specifically, little is known about how DT and BD can be
+blended throughout the mHealth DBCI design process to ensure
+that microengagement and macroengagement needs will be met.
+
+Aims and Objectives
+The aim of this scoping review was to identify and map how
+design teams have integrated best practices from BD and DT
+throughout the mHealth DBCI design process. By clarifying
+how BD and DT can be integrated, this review aimed to provide
+guidance on how mHealth DBCIs can be designed to more
+"effectively engage" patients and the public. This scoping review
+addressed the following questions: (1) what are the main
+characteristics of the studies that integrated BD and DT during
+the mHealth DBCI design process? (2) what theories, models,
+and frameworks did design teams use during the mHealth DBCI
+design process? (3) what methods did design teams use to
+integrate BD and DT during the mHealth DBCI design process?
+and (4) what are the key design challenges, implementation
+considerations, and future directions for the integration of BD
+and DT during mHealth DBCI design? 

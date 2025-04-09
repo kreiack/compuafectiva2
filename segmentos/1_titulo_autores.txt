@@ -1,0 +1,35 @@
+Integrating Behavioral Science and Design Thinking to Develop
+Mobile Health Interventions: Systematic Scoping Review
+Paula Voorheis1,2
+, MSc; Albert Zhao2,3
+, MSc; Kerry Kuluski1,4
+, PhD; Quynh Pham1,5
+, PhD; Ted Scott2,6
+, PhD; Peter
+Sztur2
+, BTech; Nityan Khanna2
+, BTech; Mohamed Ibrahim2
+, BTech; Jeremy Petch1,2,7,8
+, PhD
+1
+Institute of Health Policy, Management and Evaluation, Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada
+2Centre for Data Science and Digital Health, Hamilton Health Sciences, Hamilton, ON, Canada
+3Master of eHealth Program, McMaster University, Hamilton, ON, Canada
+4
+Institute for Better Health, Trillium Health Partners, Toronto, ON, Canada
+5Centre for Global eHealth Innovation, Techna Institute, University Health Network, Toronto, ON, Canada
+6
+Faculty of Health Sciences, School of Nursing, McMaster University, Hamilton, ON, Canada
+7Division of Cardiology, Department of Medicine, McMaster University, Hamilton, ON, Canada
+8
+Population Health Research Institute, Hamilton, ON, Canada
+Corresponding Author:
+Paula Voorheis, MSc
+Institute of Health Policy, Management and Evaluation
+Dalla Lana School of Public Health
+University of Toronto
+155 College St 4th Floor
+Toronto, ON, M5T 3M6
+Canada
+Phone: 1 7058163180
+Email: paula.voorheis@mail.utoronto.ca 

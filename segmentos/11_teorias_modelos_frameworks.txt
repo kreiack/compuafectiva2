@@ -1,0 +1,66 @@
+Multimedia Appendix 5: Theories, Models and Frameworks used in Design*
+
+To Conceptualize the Behavior Change Problem:
+• COM-B (Capability Opportunity Motivation – Behavior)
+• Theoretical Domains Framework (TDF)
+• Health Belief Model
+• Theory of Planned Behavior
+• Self-Determination Theory (SDT)
+• Self-Efficacy Theory
+• Transtheoretical Model
+• Social Cognitive Theory (SCT)
+• Self-Regulation Theory
+• Theory of Reasoned Action
+• Social Norm Theory
+• Value Health Belief Model 
+• Normalisation Process Theory
+• Health Action Process Approach
+• Consolidated Framework for Implementation Research
+• User Experience – Behavior Change (UX-BC) Model
+• I-Change Model
+• Information Motivation Behavioral Skills Model
+• Social Practice Theory
+
+To Identify Relevant Behavior Change Techniques:
+• Behavior Change Technique (BCT) Taxonomy v1
+• Behavior Change Technique (BCT) Taxonomy CALORE
+• Behavior Change Wheel (BCW)
+• Persuasive Systems Design Model
+• Behavior Change Strategy Cards
+• Self-Determination Theory's Motivation Continuum
+• Persuasive Design Principles
+• Fogg Behavior Model
+
+To Evaluate Ideas:
+• APEASE Criteria (Affordability, Practicability, Effectiveness, Acceptability, Side-effects, and Equity)
+• Feasibility, Requirement, Accept, Design, Implement (FRADI)
+• Necessity, Acceptability, Safety, and Effectiveness (NASE)
+• Expert evaluation criteria
+• Practical Robust Implementation and Sustainability Model (PRISM) with RE-AIM
+• Behavioral Reasoning Theory
+• Health Technology Assessment Criteria
+
+To Guide the Design Process:
+• Design Thinking
+• User-Centered Design (UCD)
+• Person-Based Approach
+• Intervention Mapping (IM)
+• Integrate, Design, Assess, and Share (IDEAS)
+• Agile Methods
+• 5-D Cycle (Define, Discover, Dream, Design, and Deliver)
+• Contextual Design
+• Behavior-Centered Design Process
+• CeHRes Roadmap
+• Requirement Development Approach
+• START (Screen, Triangulate, Analyze, Redesign, and Test) Process
+• Formative Research Process
+• Iterative Convergent Mixed Methods Design Process
+• Participatory Action Research (PAR) Process
+• MRC Framework for the Development of Complex Interventions
+• Scrum
+• Waterfall Model
+• MoSCoW (Must Have, Should Have, Could Have, Would Have) Analysis 
+• PRECEDE PROCEED Model
+• Stanford Persuasive Design Model
+
+* The lists above are not meant to be exhaustive of all the theories, models and frameworks studies drew from. The theories, models and frameworks cited above are representative of what was explicitly mentioned and clearly described by studies. Studies often elected to draw on broad literature reviews, group brainstorming, practice guidelines, user feedback and other methods to conceptualize, identify, evaluate, and guide their work. The categories presented here (conceptualize, identify, evaluate and guide) are also not meant to be mutually exclusive. While overlap exists between these classifications, conceptualizing the differences between certain types of theories, models and frameworks can help facilitate selection of tools to guide mHealth DBCI design. More information on the approaches and methods studies used throughout mHealth DBCI design can be seen in Appendix 4). 

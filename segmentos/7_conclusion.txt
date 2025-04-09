@@ -1,0 +1,16 @@
+Conclusion
+The number of mHealth interventions designed to support
+behavior change is increasing. Integrating best practices from
+BD and DT may allow for the development of mHealth DBCIs
+that more effectively engage patients and the public. This paper
+has helped identify and conceptualize the methods that can be
+used to integrate BD and DT throughout the mHealth DBCI
+design process. Raising the standard of mHealth design methods
+will be essential to ensure confidence in the impact mHealth
+interventions can have on improving health outcomes. If more
+mHealth DBCIs are purposefully designed to address effective
+engagement, it is likely that patients, the public, and health care
+practitioners will be more confident in adopting mHealth. Given
+the predicted increase in the demand of mHealth interventions,
+the time is now to ensure mHealth design methods are
+appropriately suited to increase effective engagement. 
