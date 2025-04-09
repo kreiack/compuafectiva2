@@ -1,0 +1,292 @@
+Results
+Evidence Selection
+A total of 1912 papers were identified from the searches. After
+651 duplicate studies were removed, 1252 papers were screened
+based on their titles and abstracts, with 255 full-text papers
+meeting the eligibility criteria. After full-text review, 75 papers
+fulfilled the eligibility criteria and were included in the final
+review. Figure 1 shows the PRISMA-ScR flow diagram
+illustrating the paper selection process [28].
+
+Figure 1. PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews) flow diagram of the
+study selection process.
+
+Main Characteristics of the Included Papers
+All 75 primary studies were published between 2012 and 2021,
+with a surge from 2018 onward (51/75, 68%). The Journal of
+Medical Internet Research and its sister journals accounted for
+almost 55% (41/75) of the papers included. The United States
+(14/75, 19%), the United Kingdom (13/75, 17%), Australia
+(10/75, 13%), and Holland (9/75, 12%) were the most common
+study locations. The target population of the mHealth DBCIs
+varied, with the most common being patients with cardiovascular
+issues (7/75, 9%), patients with diabetes (5/75, 7%), adults with
+overweight and obesity (5/75, 7%), adults who smoke (5/75,
+7%), adults with poor physical activity levels (5/75, 7%), and
+cancer survivors (5/75, 7%). The target health behaviors
+addressed also varied, with the most prominent being improved
+physical activity (18/75, 24%), improved diet (17/75, 23%),
+disease self-management (12/75, 16%), preventative health
+behaviors (6/75, 8%), adherence to medication (5/75, 7%),
+adherence to rehabilitation programming (5/75, 7%), and
+smoking cessation (5/75, 7%). mHealth DBCI design teams
+were multidisciplinary in their membership. Members included
+researchers, patients, caregivers, community partners, clinicians,
+technology developers, and experts in behavior change, health
+psychology, health communications, health promotion, and
+health informatics. Topic experts were also relied on depending
+on the type of intervention (eg, diabetes educators). Software
+engineers, computer scientists, videographers, product designers,
+and graphic designers were brought to assist with the
+development of the mHealth intervention, although it was
+usually unclear when they were included. The design process
+duration was usually not reported. Out of the 14 interventions
+that clearly reported design process duration, there was a large
+variation in timespan, ranging from less than 3 months to
+upwards of 4 years. Multimedia Appendix 3 provides an
+overview of the main study characteristics, and Multimedia
+Appendix 4 provides a full list of the 75 studies included.
+
+Theories, Models, and Frameworks Used During
+Design
+Studies used a variety of theories, models, and frameworks in
+their mHealth DBCI design process. Theories, models, and
+frameworks were most often used to (1) guide the design process
+itself, (2) conceptualize the behavior change problem, (3)
+identify relevant BCTs, and (4) evaluate ideas for their
+applicability, feasibility, or potential effectiveness. Figure 2
+summarizes the types of theories, models, and frameworks used
+in the mHealth DBCI design process, and Multimedia Appendix
+5 provides a detailed breakdown.
+
+Figure 2. Theories, models, and frameworks used in mobile health digital behavior change intervention design. ABACUS: App Behavior Change
+Scale; APEASE: Acceptability, Practicability, Effectiveness, Affordability, Side-effects, and Equity; BCT: behavior change technique; COM-B:
+capability, opportunity, motivation-behavior; DBCI: digital behavior change intervention; IDEAS: Integrate, Design, Assess, and Share; mHealth:
+mobile health; MoSCoW: must-have, should-have, could-have, and won't-have, or will not have right now; PRECEDE: Predisposing, Reinforcing, and
+Enabling Constructs in Educational Diagnosis and Evaluation; PROCEED: Policy, Regulatory, and Organizational Constructs in Educational and
+Environmental Development.
+
+Methods Used to Integrate BD and DT During the
+mHealth DBCI Design Process
+Regardless of the theories, models, and frameworks teams used
+to design their mHealth DBCIs, they integrated best practices
+from BD and DT in notable ways. We refer to the mixing of
+BD and DT throughout the mHealth DBCI design process as
+the "Behavioral Design Thinking Approach" (see Figure 3).
+The Behavioral Design Thinking Approach presents a new
+method of designing mHealth DBCIs, which is the result of
+merging together best practices from BD and DT. Multimedia
+Appendix 6 provides further detail on the Behavioral Design
+Thinking Approach along with several specific examples on
+how BD and DT can be integrated.
+
+Generally, 5 steps are followed in the Behavioral Design
+Thinking Approach: (1) empathize with users and their behavior
+change needs, (2) define user and behavior change requirements,
+(3) ideate user-centered features and behavior change content,
+(4) prototype a user-centered solution that supports behavior
+change, and (5) test the solution against users' needs and for its
+behavior change potential. Across these steps, studies integrated
+DT and BD in different ways, often "driving" their mixing in
+a certain direction. The 3 ways DT and BD were mixed included
+(1) DT and BD approaches were equally weighted (notation =
+DT+BD), (2) DT drove the approach, with concepts from BD
+supplementing the DT approaches (notation = DT→BD), or (3)
+BD drove the approach, with concepts from DT supplementing
+the BD approaches (notation = BD→DT). Overall, studies
+tended to "empathize" by blending DT and BD equally
+(DT+BD), "define" by blending DT and BD equally (DT+BD),
+"ideate" by driving the process by BD (BD→DT), "prototype"
+by driving the process by DT (DT→ BD), and "test" by driving
+the process by DT (DT→BD). These approaches are summarized
+in the text below.
+
+Figure 3. The behavioral design thinking approach [5,6]. BCT: behavior change technique; DBCI: digital behavior change intervention; mHealth:
+mobile health; UI: user interface; UX: user experience.
+
+Behavioral Design Thinking Approach
+Behavioral Design Thinking Step 1: Empathize With
+Users and Their Behavior Change Needs
+Most studies described how they empathized with users while
+simultaneously conceptualizing the behavior change problem
+(66/75, 88%), blending concepts from DT and BD harmoniously
+(notation = DT+BD). To empathize with the users who would
+perform a target behavior, studies analyzed users' experiences,
+perceptions, beliefs, needs, and preferences with their health
+issues, health behaviors, health interventions, and mobile app
+usage. To understand the behaviors that the users will perform,
+studies examined applicable target health behaviors, behavioral
+determinants, BCTs, and behavioral theories, models, and
+frameworks. Finally, to understand the context that the users
+perform the behavior in, studies assessed current practices and
+programs, relevant personal, social, environmental, and
+structural factors, and pertinent clinical, usage, and behavioral
+aims. Studies used primary research (eg, interviews, focus
+groups, surveys, creative workshops) and secondary research
+(eg, secondary data analyses, literature reviews, reviews of other
+interventions, guidelines, practices) to empathize. Studies not
+only involved patient and public end users during this step
+(48/75, 64%), but also involved health care practitioners,
+community partners, behavioral experts, design scientists, and
+technology developers. To directly involve patients and the
+public, studies used a variety of tools such as interview guides
+informed by behavior change models and visual presentations
+of apps to stimulate collaborative discussion.
+
+Behavioral Design Thinking Step 2: Define User and
+Behavior Change Requirements
+Studies tended to analyze the empathy results in order to define
+system requirements that would meet both users' needs and
+behavior change needs (notation = DT+BD). Studies tended to
+define user-centered requirements by sorting users' stated
+preferences into key themes to be addressed. Studies tended to
+define the behavior change requirements by using the empathy
+results to formulate a "behavioral diagnosis," which outlines
+the behavioral determinants that need to be addressed. When
+studies organized the requirements into an amalgamated format,
+DT or BD usually drove the organization. For example, some
+studies used tables organized by the relevant behavioral
+determinants, whereby they would then list corresponding user
+quotes and resultant requirements alongside the behavioral
+determinants. Other studies opted to use the requirements to
+create holistic user personas and scenarios. Regardless of the
+approach to amalgamate and make sense of the requirements,
+the requirement lists were often lengthy and needed to be
+refined. Refining the requirements involved (1) identifying the
+requirements that met the project scope and objectives, (2) using
+feasibility criteria to refine and select certain requirements, (3)
+consulting experts and patient and public users to prioritize the
+requirements, and (4) ranking the most important requirements
+according to their likelihood to elicit behavior change, alignment
+with current practices, adaptability to a digital interface,
+acceptability to users, and compatibility with data collection
+needs.
+
+Behavioral Design Thinking Step 3: Ideate
+User-Centered Features and Behavior Change Content
+Most studies described how they translated requirements into
+design content and features by using ideation methods (67/75,
+89%). Generally, studies drove their ideation methods using
+BD (notation = BD→DT). For instance, several studies relied
+only on BD to ideate the relevant behavior change content
+(19/67, 28%). These studies used researcher-led "behavioral
+mapping" to match relevant behavior change determinants with
+BCTs by using evidence-based taxonomies and tested linkages.
+It was often unclear, however, exactly how these studies
+translated the identified BCTs into content for the mobile app.
+Other studies attempted to completement BD approaches with
+DT methods during their ideation (48/67, 72%). In these cases,
+studies would creatively ideate design content and features that
+would support behavior change while also meeting users'needs
+and preferences. These studies relied on different techniques
+such as design team brainstorming, expert stakeholder panels,
+technology partner consultation, and end user co-design efforts.
+Design teams tended to brainstorm how the behavior change
+insights could be integrated with users' preferences, existing
+programming, norms in mHealth design, and clinical
+management needs. Stakeholder panels would discuss all the
+requirements and consider the most appropriate strategies
+(dosage, delivery, organization, and personalization).
+Technology partners would specify how requirements could be
+operationalized within an mHealth app. Patient and public
+partners would contribute to co-design sessions to create and
+reflect on ideas, content, and designs. Approximately 34%
+(23/75) of the studies appeared to directly involve patient and
+public users during this step to ensure that the ideated content
+met their unique needs.
+
+Behavioral Design Thinking Step 4: Prototype a Solution
+That Is User-Centered and Supports Behavior Change
+Many studies did not clearly describe the prototyping methods
+they used to translate ideated content and features into functional
+solutions (28/75, 36%). Studies that described their prototyping
+approach tended to drive their prototyping by using DT (notation
+= DT→BD). For instance, a large proportion of studies only
+used prototyping methods, tools, and aids traditional to DT
+(37/47, 79%). DT prototyping methods usually involved iterative
+prototyping, feedback, and refinement, often utilizing sprint,
+scrum, or agile methods. DT prototyping tools included
+wireframing, paper prototyping, application flowcharts, and use
+case scenarios. DT prototyping aids included tools such as
+Nielsen's usability heuristics [19] and the Eight Golden Rules
+[29]. Despite reliance on DT for prototyping, several studies
+supplemented DT methods with BD considerations to ensure
+that behavior change content would be operationalized within
+the prototyped solution (10/47, 21%). For example, to
+supplement DT prototyping methods, some studies utilized BCT
+codevelopment to ensure that BCTs were not lost in translation
+during technological development. To supplement DT
+prototyping tools, some studies elected to make BCT flowcharts
+to clarify how the BCTs would be interacted with. To
+supplement DT prototyping aids, some studies also used the
+Behavioral Intervention Technology Model [30] or the
+Persuasive Systems Design Framework [31], which were
+behaviorally informed models used to guide feature selection.
+Among the studies that clearly described their prototyping
+methods, just over half appeared to directly involve patient and
+public end users in their prototyping process (26/47, 55%).
+
+Behavioral Design Thinking Step 5: Test Solution
+Against User Needs and for Its Behavior Change
+Potential
+A large proportion of studies did not clearly describe how they
+tested their mHealth DBCI solution within the design process
+(18/75, 24%). Studies that described their testing methods tended
+to drive their testing by methods traditional to DT (notation
+=DT→BD). For instance, a considerable number of studies
+relied exclusively on DT evaluation approaches such as heuristic
+evaluation, usability testing, expert evaluation, and pilot testing
+to evaluate the solutions against users' needs (33/57, 58%).
+Despite reliance on DT for testing, some studies supplemented
+these testing methods with BD considerations to evaluate the
+solution for its behavior change potential (24/57, 42%). For
+instance, in addition to traditional DT heuristic evaluation, some
+studies conducted a BCT evaluation to assess the final solution
+for the presence of known BCTs. In addition to traditional DT
+usability testing, some studies "tagged" BCT components within
+the app to follow how users engaged, accepted, and perceived
+the intended BCTs. Some studies also conducted posttest user
+interviews directed by interview guides based on constructs of
+a behavioral model. In addition to traditional DT expert
+evaluations, some studies brought on behavioral science experts
+to assess the extent to which the intervention content had fidelity
+to the intended BCTs. Experts also could assess the quality of
+the mHealth DBCI by using the App Behavior Change Scale
+[32]. If pilot tests were conducted, specific behavior change
+outcomes could be evaluated in addition to traditional usage
+metrics. Metrics included change in knowledge, change in
+intentions, state of behavior change, user experience with BCTs,
+perceived potential of BCTs, and user engagement with BCTs.
+
+Design Challenges, Implementation Considerations,
+and Future Directions
+In addition to describing their design process, studies also
+identified key implementation considerations, design challenges,
+and future directions for mHealth DBCI design. These have
+been summarized in Textbox 1. Multimedia Appendix 7 expands
+on these results in further detail.
+
+Textbox 1. Key design challenges, implementation considerations, and future directions.
+
+Design challenges
+• Design process can be time and resource consuming, especially when the design approach is unclear.
+• Recruiting and involving representative end users and key stakeholders can be difficult.
+• Conflicting ideas can result from integrating behavioral theory, user needs, and stakeholder views.
+• The translation of behavior change techniques into actual mobile health (mHealth) digital behavior change intervention (DBCI) features and
+content can be confusing.
+• The design process is time limited and usually may not allow for comprehensive evaluation.
+• Integrating the mHealth DBCI into clinical practice can be complex.
+• mHealth platforms come with their own technical challenges and limiting factors.
+
+Implementation considerations
+• Evaluate potential implementation barriers and facilitators during the "testing" step.
+• Facilitate early stakeholder buy-in.
+• Plan for the integration of the mHealth DBCI into clinical systems.
+• Use feasibility criteria throughout the entire design process.
+• Use an implementation plan (marketing, dissemination, onboarding, adoption, usage, sustainability).
+
+Future directions
+• Guidance on the design process for mHealth DBCIs.
+• Guidance on how to operationalize behavioral change techniques within mHealth DBCIs in a user-friendly way.
+• Guidance on how to meaningfully involve users and stakeholders in the design process.
+• Guidance on how to tailor mHealth DBCIs to meet behavioral, personal, and clinical needs. 

@@ -1,0 +1,41 @@
+Acknowledgments
+This review was funded from the core operating budget of the Centre for Data Science and Digital Health (CREATE) at Hamilton
+Health Sciences. The most responsible author is the Director of CREATE. The larger organization of Hamilton Health Sciences
+had no role in the design, conduct, or content of the review.
+
+Authors' Contributions
+PV was responsible for leading all stages of the scoping review. KK, QP, and JP reviewed the scoping review protocol to ensure
+its research rigor. TS, PS, NK, and MI ensured that the scoping review objectives and protocol were appropriate and applicable
+to the field. PV and AZ completed the study screening and data extraction. PV was responsible for writing the scoping review
+draft. All authors were involved in reviewing and preparing the manuscript for publication.
+
+Conflicts of Interest
+None declared.
+
+Multimedia Appendix 1
+PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews) checklist.
+[PDF File (Adobe PDF File), 367 KB-Multimedia Appendix 1]
+
+Multimedia Appendix 2
+Search strategy.
+[DOC File , 44 KB-Multimedia Appendix 2]
+
+Multimedia Appendix 3
+Main characteristics of the studies.
+[DOC File , 107 KB-Multimedia Appendix 3]
+
+Multimedia Appendix 4
+Summary of all the studies included.
+[DOC File , 205 KB-Multimedia Appendix 4]
+
+Multimedia Appendix 5
+Theories, models, and frameworks used in design.
+[DOC File , 676 KB-Multimedia Appendix 5]
+
+Multimedia Appendix 6
+The behavioral design thinking approach.
+[PDF File (Adobe PDF File), 1248 KB-Multimedia Appendix 6]
+
+Multimedia Appendix 7
+Design challenges, implementation considerations, and future directions.
+[DOC File , 42 KB-Multimedia Appendix 7] 

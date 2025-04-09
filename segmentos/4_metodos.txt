@@ -1,0 +1,112 @@
+Methods
+Study Design
+The Joanna Briggs Institute reviewer's manual was used to
+guide the conduct of this scoping review [27]. The scoping
+review follows the PRISMA-ScR (Preferred Reporting Items
+for Systematic Reviews and Meta-Analyses Extension for
+Scoping Reviews) checklist (see Multimedia Appendix 1) [28].
+A scoping review protocol was drafted internally among key
+stakeholders, including mHealth software architects, mHealth
+design team managers, an information specialist, and several
+researchers with experience in the topic.
+
+Search Strategy
+The search strategy was developed by the lead author in
+collaboration with an information specialist. Initial searches
+were conducted in journals highly relevant to our research topic
+(eg, Cochrane, JMIR journals) to identify suitable search terms.
+A series of initial searches in MEDLINE were completed to
+analyze the text words contained in the title and abstracts of
+retrieved papers and index terms used to describe the papers.
+A final list of search terms was compiled, and a search of the
+databases MEDLINE, PsycINFO, EMBASE, and CINAHL was
+completed on May 15, 2021. A handsearch of Journal of
+Medical Internet Research was also completed on May 15,
+2021, as this was recognized as a journal highly relevant to the
+research topic. A gray literature search and a review of paper
+reference lists were not conducted. This decision was made to
+tighten the scope of the review around the research objectives,
+given time and resource constraints. Search terms combined
+the following topics: mHealth, behavior change, and design
+thinking. The full search strategy can be seen in Multimedia
+Appendix 2.
+
+Eligibility Criteria
+Included papers had to be primary studies, where a full-text
+paper described the design process of an mHealth DBCI. More
+specifically, included papers had to describe how BD and DT
+practices were integrated throughout the design of an mHealth
+DBCI that aimed to support behavior change in patients or the
+public. To meet these criteria, the papers had to clearly describe
+their mHealth DBCI design process, addressing at least 3 of the
+5 design process steps suggested in DT (empathizing, defining,
+ideating, prototyping, and testing) [18]. In addition, papers had
+to clearly describe how behavior change theories, models,
+frameworks, or techniques were incorporated into the mHealth
+design process. Studies that only used behavior change insights
+to evaluate the mHealth DBCI after development were
+excluded. Furthermore, studies that described an mHealth
+intervention designed to provide a psychological treatment (eg,
+cognitive behavioral therapy) without describing how their
+design process utilized behavior change theories, models, and
+frameworks to support "effective engagement" were also
+excluded. No limitations were put on the year of publication;
+however, only papers published in English were included. To
+be eligible, the intervention must have been an mHealth
+intervention, defined by the World Health Organization as
+"health care and public health practice supported by mobile
+devices such as mobile phones, tablets, patient monitoring
+devices, and other wireless devices" [4]. The intervention must
+also have been designed for use by patients or the public. If the
+intervention was designed only for use by health care
+professionals, it was excluded.
+
+Evidence Selection
+Studies from the database searches were handled using
+Covidence (Veritas Health Innovation Ltd) reference
+management software. Papers were deduplicated and imported
+for screening using Covidence. A 2-level screening was
+performed after duplicate removal. During level 1 screening,
+titles and abstracts were screened using the eligibility criteria.
+Publications with title or abstract not meeting the eligibility
+criteria were excluded. During level 2 screening, full-text papers
+that passed level 1 were screened. Studies that met the eligibility
+criteria were included for full data extraction. Consistent with
+PRISMA-ScR, reasons for exclusion were recorded at the
+full-text level [28]. Prior to the selection of sources, 2 reviewers
+completed a pilot screening of 50 titles and abstracts to assess
+the reliability of the eligibility criteria. Interrater agreement for
+study inclusion was calculated using percentage agreement. If
+agreement was lower than 80%, the eligibility criteria would
+be clarified and another pilot test would occur. All interrater
+discrepancies during level 1 and 2 evidence selection were
+resolved between the 2 reviewers upon discussion. The 2
+reviewers screened all titles, abstracts, and full-text papers for
+inclusion.
+
+Data Extraction
+The reviewers extracted data from the eligible papers by using
+2 data extraction forms. The first data extraction form elicited
+the main study characteristics, including lead author, year of
+publication, journal of publication, country of origin, study
+design, study purpose, target user population, the health issue,
+the target health behavior, mHealth DBCI summary, mHealth
+DBCI design process duration, and the members of the mHealth
+DBCI design team. The second data extraction form elicited
+details about how BD and DT were integrated throughout the
+design process, which included extracting types of theories,
+models, and frameworks used; the approaches design teams
+used to integrate best practices from BD with DT over the course
+of the mHealth DBCI design process, key challenges in the
+mHealth DBCI design process, key implementation
+considerations for mHealth DBCIs, and future considerations
+for the mHealth DBCI design. The data extraction forms were
+drafted, revised, and agreed upon by the 2 reviewers after an
+iterative process of implementing the extraction forms on a
+sample of papers.
+
+Analysis and Presentation of Results
+A descriptive analysis of the included papers was conducted to
+meet the objectives of the scoping review. Narrative
+descriptions, frequency calculations, and visual diagrams were
+utilized to communicate the results. 

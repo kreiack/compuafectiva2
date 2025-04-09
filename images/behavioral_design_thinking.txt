@@ -1,0 +1,23 @@
+Diagrama PRISMA-ScR:
+Un diagrama de flujo que muestra:
+- Identificación: 1,912 registros identificados a través de búsquedas de bases de datos
+- Cribado: Después de eliminar 651 duplicados, 1,252 registros para revisión de título/resumen, de los cuales 997 fueron excluidos
+- Elegibilidad: 255 textos completos evaluados para elegibilidad, 180 excluidos por razones específicas
+- Incluidos: 75 estudios incluidos en la revisión final
+
+Teorías, modelos y marcos:
+Un diagrama organizativo que agrupa las teorías, modelos y marcos en cuatro categorías:
+1. Para guiar el proceso de diseño (ej. IDEAS, MoSCoW, UCD)
+2. Para conceptualizar el problema de cambio de comportamiento (ej. COM-B, SCT)
+3. Para identificar técnicas de cambio de comportamiento (ej. BCT Taxonomy)
+4. Para evaluar ideas (ej. APEASE, Framework for Evaluation)
+
+Enfoque Behavioral Design Thinking:
+Un diagrama circular con 5 etapas interconectadas:
+1. Empatizar con usuarios y sus necesidades de cambio de comportamiento
+2. Definir requisitos de usuarios y de cambio de comportamiento
+3. Idear características centradas en el usuario y contenido de cambio de comportamiento
+4. Prototipar solución centrada en el usuario que apoye el cambio de comportamiento
+5. Probar la solución contra necesidades del usuario y su potencial de cambio
+
+Cada etapa muestra un balance entre componentes DT y BD, con notaciones (DT+BD, DT→BD, BD→DT) que indican el peso relativo de cada aproximación según la etapa. 

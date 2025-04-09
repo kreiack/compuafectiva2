@@ -1,0 +1,150 @@
+Discussion
+Primary Findings
+This paper presents a systematic scoping review of 75 papers
+that described their design process for developing an mHealth
+DBCI. This review addressed a gap in the literature about how
+mHealth interventions can be designed to integrate practices
+from DT and BD. Although the number of mHealth DBCIs
+seems to be growing, the results highlight substantial
+heterogeneity in the methods studies used to design them. This
+scoping review aimed to clarify, map, and synthesize the
+different methods that can be used to design mHealth DBCIs.
+A new consolidated approach to mHealth DBCI design is
+presented—the Behavioral Design Thinking Approach. A large
+proportion of mHealth DBCIs were designed to facilitate dietand exercise-related behavior change. Similar findings were
+noted in a scoping review on DBCI design over the past 2
+decades [22]. Nonetheless, the results point to a lack of clarity
+about how mHealth DBCI content and features were ideated
+and operationalized. Several studies in this review struggled to
+translate BCTs into user-friendly mHealth features. Studies also
+ended up trying to fit several BCTs within the mHealth app,
+increasing app complexity. To simplify the user experience,
+several studies noted that personalization may be an important
+future direction for the field. Tailoring mHealth content to users'
+unique behavioral, clinical, and personal needs can help facilitate
+the delivery of features to support effective engagement [33].
+Ensuring that design teams use appropriate questions and metrics
+to inform personalization will be essential. This further
+exemplifies the need for the meaningful involvement of patients
+and the public in mHealth DBCI design. Regarding the
+meaningful involvement of patients and the public in the
+mHealth DBCI design process, this review found that patients
+and the public were most often involved as participants (eg, in
+user interviews, surveys, testing) rather than as partners on the
+design team itself. Patients and the public appeared to have
+minimal direct input on design decision-making throughout the
+mHealth DBCI design process. Growing calls are being made
+to prioritize the unique perspectives of patients and the public
+during design [16,17]. Involving end users in the design process
+has been suggested to increase the effectiveness, relevance, and
+appropriateness of mHealth DBCIs [16,17]. Nonetheless, design
+teams appear to have little guidance on how to meaningfully
+engage patient and public end users in the design process itself
+[34-37].
+
+Theories, Models, and Frameworks Used During
+Design
+Regarding the theories, models, and frameworks that studies
+used during mHealth DBCI design, design teams appeared to
+face a vast array of these "tools" from different fields, created
+for different purposes. Although studies reported benefiting
+from the structure that these tools offered, a best practice
+approach for integrating DT and BD insights to develop
+"effectively engaging" mHealth DBCIs did not appear to exist.
+This scoping review offers a classification of the types of
+theories, models, and frameworks that teams can use during
+mHealth DBCI design and offers a consolidated approach for
+guiding the design process in general.
+
+Methods Used to Integrate BD and DT During the
+mHealth DBCI Design Process
+During the integration of DT and BD throughout the mHealth
+DBCI design, key similarities and differences between the 2
+approaches were observed. During the empathizing step, users'
+preferences often differed from what was needed to change their
+behavior. Balancing user-stated preferences with evidence-based
+behavior change strategies and mHealth platform requirements
+was a challenge for teams. During the defining step, it was clear
+that blending DT and BD perspectives resulted in lengthy and
+complex requirements. Involving users and topic experts to
+refine these requirements appeared to be a helpful strategy.
+During ideation, BD relied on evidence-based linkages to ideate
+content, whereas DT relied on iterative brainstorming and
+collaborative creation. Studies reconciled these different
+approaches by starting with BD to develop a list of relevant
+BCTs and then using DT to creatively integrate BCTs and other
+requirements into the mHealth DBCI. The prototyping step was
+the least well described among studies but usually relied on
+approaches traditional to DT. Studies that brought on their
+technology partner only at the prototyping stage often had to
+add additional methods to ensure that BCTs were
+operationalized as imagined. The testing step was also
+dominated by DT, as it was challenging to meaningfully test
+for behavior change outcomes within the time constraints
+imposed by the design process. Nonetheless, several measures
+were used by studies to assess the solution's potential to support
+behavior change.
+
+Design Challenges, Implementation Considerations,
+and Future Directions
+Finally, regarding key implementation considerations, design
+challenges, and future directions, several cross-cutting themes
+were identified. In addition to ensuring that BD and DT insights
+were incorporated into the mHealth DBCI design, many teams
+noted that planning for implementation of the mHealth DBCI
+was just as important for ensuring success. Using insights from
+BD and DT may also be relevant in designing an implementation
+plan for the mHealth DBCI. Implementation planning appears
+to be particularly complex in this context, as many mHealth
+DBCIs need to be integrated with existing clinical systems and
+norms. Regardless of how evidence-based and user-friendly the
+mHealth DBCI may be, if stakeholder buy-in, system adaptation,
+and clinical sustainability issues are not taken into consideration,
+the mHealth DBCIs are likely to fail. Future research must
+address the lack of guidance design teams have in developing
+and implementing effective mHealth DBCIs. Particularly, design
+teams have little guidance on the "tools" (ie, theories, models,
+and frameworks) they can use, how to meaningfully involve
+patient and public end users, and how to tailor mHealth DBCI
+content to meet behavioral, personal, and clinical needs.
+
+Limitations
+The most significant limitation of this scoping review was that
+the inclusion criteria necessitated that each included paper had
+to be a full-text primary study that clearly described the mHealth
+design process. This decision was made to tighten the scope of
+this review and owing to limited time and resources. Although
+the systematic database search was not supplemented by a gray
+literature search or a review of reference lists, the 75 included
+papers offer a diverse range of insights that meet the research
+objectives while addressing a prominent gap in the literature.
+It should be noted that the original scope of this review included
+a database, reference list, and gray literature search to identify
+available design frameworks that could be used by design teams
+to integrate BD and DT insights during mHealth development.
+Presenting these results alongside the data extracted from 75
+primary studies was beyond the scope of this paper. The results
+of this scoping review are only inclusive of studies written in
+English; therefore, findings may not be generalizable
+internationally.
+
+Implications
+The Behavioral Design Thinking Approach offers a way forward
+in the field of mHealth DBCI design. mHealth design teams
+may consider using the insights presented in the Behavioral
+Design Thinking Approach to inform their future work. mHealth
+design teams may also find it helpful to reflect on the different
+types of theories, models, and frameworks they can use during
+the design process, as well as the key challenges they may face
+along the way. The findings presented in this review may also
+be relevant to researchers in the fields of behavioral science and
+design science who are interested in interdisciplinary
+collaboration. It is reasonable to assume that breaking down
+silos between these 2 fields may improve the success of mHealth
+DBCIs. Overall, the main benefits of this research include (1)
+clarifying what approaches can be used to design mHealth
+DBCIs, (2) promoting transparency in the choices that studies
+must make during the mHealth DBCI design process, and (3)
+enabling future researchers to test what design approaches are
+the most effective to develop "effectively engaging" mHealth
+DBCIs. 
